@@ -64,7 +64,7 @@ void setup() {
   { Serial.println("Data sent to Firestore!"); } else{ Serial.println("Error while saving the data to Firestore: " + fbdo.errorReason()); }
 
   // Switch ESP32 to deep sleep mode for specific perion of time
-  esp_sleep_enable_timer_wakeup(TIME_TO_SLEEP * uS_TO_S_FACTOR);
+  esp_sleep_enable_timer_wakeup((uint64_t) TIME_TO_SLEEP * uS_TO_S_FACTOR);
   Serial.println("Deep sleep start...");
   esp_deep_sleep_start();
 }
