@@ -23,13 +23,14 @@ Setup contains following elements:
 - ESP32-WROVER-E CAM
 - DFRobot Gravity Analog Capacitive Soil Moisture Sensor
 - 9V battery
-- miniUSB 2.0 to 9V battery connector
+- microUSB 2.0 to 9V battery connector
 - 3D printed case
 <br></br>
 
 <p float="left">
 <img src="./images/PXL_20230822_173938061.jpg" height="300" />
 <img src="./images/PXL_20230822_172124789.jpg" height="300" />
+<br></br>
 <img src="./images/PXL_20230822_172209254.jpg" height="300" />
 <img src="./images/PXL_20230822_172235080.jpg" height="300" />
 </p>
