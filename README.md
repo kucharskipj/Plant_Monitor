@@ -26,11 +26,10 @@ Setup contains following elements:
 - miniUSB 2.0 to 9V battery connector
 - 3D printed case
 <br></br>
-<img src="./images/PXL_20230822_173938061.jpg" height="400" />
-<img src="./images/PXL_20230822_172124789.jpg" height="400" />
-<br></br>
-<img src="./images/PXL_20230822_172209254.jpg" height="400" />
-<img src="./images/PXL_20230822_172235080.jpg" height="400" />
+<img src="./images/PXL_20230822_173938061.jpg" height="300" />
+<img src="./images/PXL_20230822_172124789.jpg" height="300" />
+<img src="./images/PXL_20230822_172209254.jpg" height="300" />
+<img src="./images/PXL_20230822_172235080.jpg" height="300" />
 
 ## Architecture
 
